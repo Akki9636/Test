@@ -1,0 +1,17 @@
+{
+  "name": "akki-ads-tools",
+  "description": "Marketing analytics plugins for Claude Code",
+  "owner": {
+    "name": "Akhil Soni",
+    "email": "akhil.soni.ads@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "facebook-ads-analyst",
+      "source": "./",
+      "description": "Analyze Meta Ads reports: metric funnel, ranked performance gaps with root causes and fixes, budget reallocation, and a 30-day campaign strategy.",
+      "category": "analytics",
+      "keywords": ["facebook-ads", "meta-ads", "marketing", "reporting"]
+    }
+  ]
+}

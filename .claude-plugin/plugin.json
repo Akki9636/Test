@@ -1,0 +1,12 @@
+{
+  "name": "facebook-ads-analyst",
+  "displayName": "Facebook Ads Analyst",
+  "description": "Analyze Meta Ads reports: metric funnel, ranked performance gaps with root causes and fixes, budget reallocation, and a 30-day campaign strategy.",
+  "author": {
+    "name": "Akhil Soni",
+    "email": "akhil.soni.ads@gmail.com"
+  },
+  "repository": "https://github.com/Akki9636/Test",
+  "license": "MIT",
+  "keywords": ["facebook-ads", "meta-ads", "marketing", "analytics", "reporting"]
+}

@@ -1,5 +1,5 @@
 ---
-name: facebook-ads-analyst
+name: analyze
 description: >
   Analyze Facebook/Meta Ads reports (CSV/XLSX exports from Ads Manager, or pasted
   tables). Computes the full metric funnel, finds performance gaps with explanations,
